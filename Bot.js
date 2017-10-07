@@ -1,6 +1,6 @@
 const Discord = require('discord.js');
 const client = new Discord.Client();
-var tts = require('node-google-text-to-speech')
+//var tts = require('node-google-text-to-speech')
 const ytdl = require('ytdl-core');
 let talkedRecently = new Set();
 //const opus = require('node-opus');
